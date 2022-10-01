@@ -34,6 +34,7 @@ Following the completion of these steps, click *Create Pull Request* to submit y
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
 
+## Please Try as much as possible to be unique *Do not the same project as another contributor in the same language!*
 
 ---
 
@@ -44,4 +45,5 @@ If you liked working on this project, please share this project as much as you c
     3. Create a directory for the programming language you are using.
     4. Note: Do not create a new directory if already exists.
     5. Filename should be meaningful with the proper extension of the source files (e.g if file is of Python language create file named "abc.py").
-    6. Don't spam it will be labelled spam and rejected promptly.
+    6. Add your name and Github profile link at the end of your file as a multiline project
+    7. Don't spam it will be labelled spam and rejected promptly.
